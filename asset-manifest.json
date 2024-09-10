@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ground-Water-Level-Predictor/static/css/main.0b45c76e.css",
+    "main.js": "/Ground-Water-Level-Predictor/static/js/main.2ef13fde.js",
+    "static/js/453.b1a5ae84.chunk.js": "/Ground-Water-Level-Predictor/static/js/453.b1a5ae84.chunk.js",
+    "index.html": "/Ground-Water-Level-Predictor/index.html",
+    "main.0b45c76e.css.map": "/Ground-Water-Level-Predictor/static/css/main.0b45c76e.css.map",
+    "main.2ef13fde.js.map": "/Ground-Water-Level-Predictor/static/js/main.2ef13fde.js.map",
+    "453.b1a5ae84.chunk.js.map": "/Ground-Water-Level-Predictor/static/js/453.b1a5ae84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b45c76e.css",
+    "static/js/main.2ef13fde.js"
+  ]
+}
